@@ -97,4 +97,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rake
   veewee
