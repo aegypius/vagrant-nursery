@@ -1,2 +1,0 @@
-# Cleanup ~vagrant
-rm ~vagrant/*
